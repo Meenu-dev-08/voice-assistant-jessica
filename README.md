@@ -96,18 +96,21 @@ In today’s fast-paced digital environment, multitasking and productivity are e
   
   - `smtplib` – for sending emails
     
-    
+   ---
+   
    **APIs:-**
   
   - OpenWeatherMap API  
   - NewsAPI  
   - Quotable.io (Quotes of the day)
     
+---
 
 **📌 Install dependencies:-**
 
 pip install -r requirements.txt
 
+---
 
 ## Create a .env file or directly paste your API keys in your script:-
 
@@ -115,11 +118,13 @@ NewsAPI: https://newsapi.org
 
 OpenWeatherMap: https://openweathermap.org/api
 
+---
 
 **🔋 Run the script**:-
 
 python jessica_ai.py
 
+---
 
 📝 **Requirements**:-
      
@@ -130,6 +135,7 @@ python jessica_ai.py
     (Optional) Webcam
 
      Internet for news/weather APIs
+---
 
 📂 **Folder Structure**:-
 
@@ -145,6 +151,7 @@ python jessica_ai.py
 
 └── README.md
 
+---
 
 ✨ **Future Enhancements** :-
 
@@ -157,6 +164,8 @@ python jessica_ai.py
   Integration with home automation (IoT)
 
   Portable Android App using Kivy
+
+  ---
   
 ## 👩‍💻 **Author**
 
