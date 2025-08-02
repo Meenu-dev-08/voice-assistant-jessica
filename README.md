@@ -158,12 +158,11 @@ python jessica_ai.py
 
   Portable Android App using Kivy
   
+## 👩‍💻 **Author**
 
-👩‍💻** Author**:-
+**Meenu Sharma**
 
-Meenu Sharma
-
-Python Enthusiast | AI Developer | 🎓CSE Final Year Student
+*Python Enthusiast | CSE | AI Voice Assistant Developer*
 
 💻 Passionate about building intelligent systems that make everyday tasks easier with automation and voice control.
 
