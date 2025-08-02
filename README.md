@@ -21,9 +21,13 @@ In today’s fast-paced digital environment, multitasking and productivity are e
 ## 🚀 Key Highlights :-
 
 - Works completely through **voice interface**
+
 - Can understand **English commands** (with Indian accent support)
+
 - Offers **modular, expandable architecture** — new features can be easily added
+
 - Completely runs on **open-source Python libraries**
+
 - All tasks are executed in real-time, making it ideal for productivity
 
 ---
@@ -73,15 +77,25 @@ In today’s fast-paced digital environment, multitasking and productivity are e
   **Language:** Python 3.x
   
   **Libraries:**  
+  
   - `speech_recognition` – for converting voice to text  
+  
   - `pyttsx3` – for voice response  
+  
   - `pyautogui` – for automation like taking screenshots  
+  
   - `pyjokes` – for telling jokes  
+  
   - `pywhatkit` – for WhatsApp messaging & YouTube control  
+  
   - `cv2` – for camera access  
+  
   - `requests` – for API integration  
+  
   - `psutil` – for system & battery info  
+  
   - `smtplib` – for sending emails
+    
     
    **APIs:-**
   
@@ -94,15 +108,18 @@ In today’s fast-paced digital environment, multitasking and productivity are e
 
 pip install -r requirements.txt
 
+
 ## Create a .env file or directly paste your API keys in your script:-
 
 NewsAPI: https://newsapi.org
 
 OpenWeatherMap: https://openweathermap.org/api
 
+
 **🔋 Run the script**:-
 
 python jessica_ai.py
+
 
 📝 **Requirements**:-
      
@@ -143,8 +160,11 @@ python jessica_ai.py
   
 
 👩‍💻** Author**:-
+
 Meenu Sharma
+
 Python Enthusiast | AI Developer | 🎓CSE Final Year Student
+
 💻 Passionate about building intelligent systems that make everyday tasks easier with automation and voice control.
 
 #Python #VoiceAssistant #AIProject #ArtificialIntelligence #JessicaAI #DesktopAutomation #MachineLearning #SpeechRecognition NaturalLanguageProcessing
