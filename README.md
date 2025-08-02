@@ -87,7 +87,13 @@ In today’s fast-paced digital environment, multitasking and productivity are e
   
   - OpenWeatherMap API  
   - NewsAPI  
-  - Quotable.io (Quotes of the day)  
+  - Quotable.io (Quotes of the day)
+
+    ## 🚀 How to Run
+
+1. Clone the repository  
+```bash
+git clone https://github.com/yourusername/jessica-voice-assistant.git
 
 
 **📌 Install dependencies:-**
@@ -142,12 +148,10 @@ python jessica_ai.py
   Portable Android App using Kivy
   
 
-📌 Author
-**Meenu Sharma**
-
-🎓 B.Tech – Computer Science and Engineering (Final Year)
-
-🏫 Aravali College of Engineering and Management
+👩‍💻** Author**:-
+Meenu Sharma
+Python Enthusiast | AI Developer | 🎓CSE Final Year Student
+💻 Passionate about building intelligent systems that make everyday tasks easier with automation and voice control.
 
 #Python #VoiceAssistant #AIProject #ArtificialIntelligence #JessicaAI #DesktopAutomation #MachineLearning #SpeechRecognition NaturalLanguageProcessing
 
