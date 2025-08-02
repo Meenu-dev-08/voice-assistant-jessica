@@ -51,18 +51,6 @@ In today’s fast-paced digital environment, multitasking and productivity are e
 | Battery & System Info      | Gives system battery status and CPU info                                    |
 | Email Sender               | Sends email via SMTP after taking recipient, subject, and body              |
 
----
-
-## 📊 Tech Stack :-
-
-- **Language:** Python 3.x
-- **Libraries:** 
-  - `SpeechRecognition`, `pyttsx3`, `pyautogui`, `psutil`, `pyjokes`, `pywhatkit`, `opencv-python`, `smtplib`, `requests`, etc.
-- **APIs:**
-  - [NewsAPI](https://newsapi.org/)
-  - [OpenWeatherMap](https://openweathermap.org/api)
-  - [Quotable.io](https://api.quotable.io)
-
 
 ## 📸 Screenshots :-
 
@@ -101,9 +89,6 @@ In today’s fast-paced digital environment, multitasking and productivity are e
   - NewsAPI  
   - Quotable.io (Quotes of the day)  
 
----
-
-
 
 **##📌 Install dependencies:-**
 
@@ -120,13 +105,14 @@ OpenWeatherMap: https://openweathermap.org/api
 python jessica_ai.py
 
 📝 **Requirements**:-
-Python 3.x
+     
+     Python 3.x
 
-Microphone
+     Microphone
 
-(Optional) Webcam
+    (Optional) Webcam
 
-Internet for news/weather APIs
+     Internet for news/weather APIs
 
 📂 **Folder Structure**:-
 
@@ -137,7 +123,9 @@ Internet for news/weather APIs
 ├── requirements.txt       # List of dependencies
 └── README.md
 
+
 ✨ **Future Enhancements** :-
+
 Wake word integration (e.g., “Hey Jessica”)
 
 GUI interface
@@ -149,8 +137,11 @@ Integration with home automation (IoT)
 Portable Android App using Kivy
 
 📌 Author
-Meenu Sharma
+
+**Meenu Sharma**
+
 🎓 B.Tech – Computer Science and Engineering (Final Year)
+
 🏫 Aravali College of Engineering and Management
 
 #Python #VoiceAssistant #AIProject #ArtificialIntelligence #JessicaAI #DesktopAutomation #MachineLearning #SpeechRecognition NaturalLanguageProcessing
