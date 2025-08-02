@@ -88,13 +88,7 @@ In today’s fast-paced digital environment, multitasking and productivity are e
   - OpenWeatherMap API  
   - NewsAPI  
   - Quotable.io (Quotes of the day)
-
-    ## 🚀 How to Run
-
-1. Clone the repository  
-```bash
-git clone https://github.com/yourusername/jessica-voice-assistant.git
-
+    
 
 **📌 Install dependencies:-**
 
