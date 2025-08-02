@@ -54,25 +54,25 @@ In today’s fast-paced digital environment, multitasking and productivity are e
 
 ## 📸 Screenshots :-
 
-### ▶️ Jessica Terminal Startup & Command Execution
-<img src="screenshots/screenshot_20250417_210431.png" alt="Jessica Running Screenshot" width="800">
+ ▶️ Jessica Terminal Startup & Command Execution
+ <img src="screenshots/screenshot_20250417_210431.png" alt="Jessica Running Screenshot" width="800">
 
-### 📁 File Search & Voice Response
-<img src="screenshots/screenshot_20250423_110215.png" alt="File Search Screenshot" width="800">
+ 📁 File Search & Voice Response
+ <img src="screenshots/screenshot_20250423_110215.png" alt="File Search Screenshot" width="800">
 
-### 🕒 Telling Time and Date
-<img src="screenshots/screenshot_20250428_200251.png" alt="Time Command Screenshot" width="800">
+ 🕒 Telling Time and Date
+  <img src="screenshots/screenshot_20250428_200251.png" alt="Time Command Screenshot" width="800">
 
-### 🧠 Imports and Module Setup
-<img src="screenshots/screenshot_20250429_115558.png" alt="Import Screenshot" width="800">
+ 🧠 Imports and Module Setup
+  <img src="screenshots/screenshot_20250429_115558.png" alt="Import Screenshot" width="800">
 
 ---
 
-## 🛠️ Tech Stack :-
+  ## 🛠️ Tech Stack :-
 
-- **Language:** Python 3.x
+  **Language:** Python 3.x
   
-- **Libraries:**  
+  **Libraries:**  
   - `speech_recognition` – for converting voice to text  
   - `pyttsx3` – for voice response  
   - `pyautogui` – for automation like taking screenshots  
@@ -83,24 +83,24 @@ In today’s fast-paced digital environment, multitasking and productivity are e
   - `psutil` – for system & battery info  
   - `smtplib` – for sending emails
     
-- **APIs:-**
+   **APIs:-**
   
   - OpenWeatherMap API  
   - NewsAPI  
   - Quotable.io (Quotes of the day)  
 
 
-**##📌 Install dependencies:-**
+**📌 Install dependencies:-**
 
 pip install -r requirements.txt
 
-## **Create a .env file or directly paste your API keys in your script**:-
+## Create a .env file or directly paste your API keys in your script:-
 
 NewsAPI: https://newsapi.org
 
 OpenWeatherMap: https://openweathermap.org/api
 
-##**🔋 Run the script**:-
+**🔋 Run the script**:-
 
 python jessica_ai.py
 
@@ -117,27 +117,32 @@ python jessica_ai.py
 📂 **Folder Structure**:-
 
 ├── jessica_ai.py          # Main script
+
 ├── mic_test.py            # To check microphone input
+
 ├── test.py                # Optional testing scripts
+
 ├── screenshots/           # Demo screenshots for README
+
 ├── requirements.txt       # List of dependencies
+
 └── README.md
 
 
 ✨ **Future Enhancements** :-
 
-Wake word integration (e.g., “Hey Jessica”)
+  Wake word integration (e.g., “Hey Jessica”)
 
-GUI interface
+  GUI interface
 
-Contextual chatbot mode using GPT API
+  Contextual chatbot mode using GPT API
 
-Integration with home automation (IoT)
+  Integration with home automation (IoT)
 
-Portable Android App using Kivy
+  Portable Android App using Kivy
+  
 
 📌 Author
-
 **Meenu Sharma**
 
 🎓 B.Tech – Computer Science and Engineering (Final Year)
