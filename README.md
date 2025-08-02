@@ -103,12 +103,6 @@ In today’s fast-paced digital environment, multitasking and productivity are e
 
 ---
 
-## 🚀 How to Run :-
-
-1. Clone the repository  
-```bash
-git clone https://github.com/yourusername/jessica-voice-assistant.git
-
 
 
 **##📌 Install dependencies:-**
